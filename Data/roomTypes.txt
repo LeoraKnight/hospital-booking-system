@@ -1,0 +1,9 @@
+Ward
+ICU
+NICU
+Isolation Room
+Labor & Delivery Room
+Operating Room
+Recovery Room
+Emergency Room
+Pediatric Room
